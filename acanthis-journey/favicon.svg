@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Acanthis Journey">
+  <rect width="32" height="32" rx="7" fill="#1A1714"/>
+  <g transform="translate(16 16)">
+    <circle r="10.4" fill="none" stroke="#B8A078" stroke-width="1.5"/>
+    <path fill="#B8A078" d="M0-10.2 2.6-1.1 0 0-2.6-1.1Z"/>
+    <path fill="#C4B5A0" d="M10.2 0 1.1-2.6 0 0 1.1 2.6Z"/>
+    <path fill="#C4B5A0" d="M0 10.2 2.6 1.1 0 0-2.6 1.1Z"/>
+    <path fill="#C4B5A0" d="M-10.2 0-1.1-2.6 0 0-1.1 2.6Z"/>
+    <circle r="1.5" fill="#F6F1E8"/>
+  </g>
+</svg>
